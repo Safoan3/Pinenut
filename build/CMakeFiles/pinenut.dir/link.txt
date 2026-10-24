@@ -1,0 +1,2 @@
+/usr/sbin/ar qc libpinenut.a CMakeFiles/pinenut.dir/pinenut.cpp.o CMakeFiles/pinenut.dir/home/safoan/Desktop/localproj/metalrend/graphicsapi/graphicsapi.cpp.o
+/usr/sbin/ranlib libpinenut.a

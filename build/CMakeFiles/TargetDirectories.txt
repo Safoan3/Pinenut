@@ -1,0 +1,3 @@
+/home/safoan/Desktop/localproj/metalrend/PineNut/build/CMakeFiles/pinenut.dir
+/home/safoan/Desktop/localproj/metalrend/PineNut/build/CMakeFiles/edit_cache.dir
+/home/safoan/Desktop/localproj/metalrend/PineNut/build/CMakeFiles/rebuild_cache.dir
